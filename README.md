@@ -47,6 +47,10 @@ _👾**Backend**_
 
 The backend is implemented using Next.js API Routes, which handle refund processing, agent orchestration, and reasoning log management.
 
+_👾**Testing**_
+
+Vitest was used to implement automated unit tests for refund validation logic and agent workflows. A total of 18 test cases were executed successfully.
+
 ---
 
 **🤖TOOL BASED WORKFLOW?**
