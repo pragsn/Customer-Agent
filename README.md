@@ -1,4 +1,4 @@
-**📀PROJECT OVEREVEIW:**
+**📀PROJECT OVEREVIEW:**
 
 This is a _AI-CUSTOMER-SUPPORT-AGENT_ for validating e-commerce refund requests built with react, next.js and TyepScript. This specific application is a tool based workflow that dynamically verifies the following. 
    * Customer Orders
@@ -31,6 +31,33 @@ This Applicaton also has an Admin DashBoard which provides Real-Time logs about 
 * Refund Approval or Denial
 * Refund Approval Rate
 * Logs Deletion
+---
+
+**🚀INSTALLATION**
+
+_Clone Repository_
+
+git clone https://github.com/pragsn/Customer-Agent.git
+
+cd Customer-Agent
+
+_Install Dependencies_
+
+npm install
+
+_Run Developement Server_
+
+npm run dev
+
+_Production Build_
+
+npm run build
+npm start / npm run dev
+
+_Testing_
+
+npm run test
+
 ---
 
 **🤖TECH STACK JUSTIFICATION**
