@@ -1,12 +1,12 @@
-**📀PROJECT OVEREVIEW:**
+**📀PROJECT OVERVIEW:**
 
-This is a _AI-CUSTOMER-SUPPORT-AGENT_ for validating e-commerce refund requests built with react, next.js and TyepScript. This specific application is a tool based workflow that dynamically verifies the following. 
+This is a _AI-CUSTOMER-SUPPORT-AGENT_ for validating e-commerce refund requests built with react, next.js and TypeScript. This specific application is a tool based workflow that dynamically verifies the following. 
    * Customer Orders
    * Refund Eligibility
    * Refund Reasons
    * Order Status
    * Validates Refund Window
-This Applicaton also has an Admin DashBoard which provides Real-Time logs about the request and response details for transparency.
+This Application also has an Admin Dashboard which provides Real-Time logs about the request and response details for transparency.
 ---
 
 **🧩FEATURES OF THE APPLICATION**
